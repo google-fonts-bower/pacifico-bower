@@ -1,0 +1,17 @@
+{
+    "name": "pacifico-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pacifico-bower.git"
+    },
+    "description": "Pacifico font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
